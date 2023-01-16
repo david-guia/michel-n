@@ -34,8 +34,8 @@ body
 	src: url("../fonts/Rustico.ttf");
 }
 @font-face {
-	font-family: "VistaSansReg";
-	src: url("../fonts/VistaSansReg.ttf");
+	font-family: "Montserrat";
+	src: url("../fonts/Montserrat.ttf");
 }
 /*=======================================================
       THEME STYLING START
@@ -201,7 +201,7 @@ a:hover, a:focus {
 	transform: translate(-50%, -50%);
 }
 .font-playfair {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .font-montserrat {
 	font-family: 'Montserrat', sans-serif;
@@ -374,7 +374,7 @@ section {
 	line-height: 24px;
 	letter-spacing: 0.1px;
 	color: #666666;
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .heading.light-head h3 {
 	color: #fff;
@@ -1183,7 +1183,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	position: relative;
 }
 .simple-head h4 {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	font-size: 28px;
 	color: #2d3a4b;
 	margin: 30px 0;
@@ -1417,7 +1417,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	width: 100%;
 }
 .top-shop-feature p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 /*=======================================================
       NEW ARRIVAL LIST
@@ -1553,7 +1553,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 }
 .tooltip-inner {
 	padding: 4px 14px;
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .tooltip.top .tooltip-arrow {
 	bottom: 1px;
@@ -1619,7 +1619,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	z-index: 9;
 }
 .papular-block .item-name p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	font-size: 14px;
 	margin: 0px;
 	margin-top: 10px;
@@ -1739,7 +1739,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	text-transform: uppercase;
 }
 .shop-items .item-name p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .shop-items .price {
 	font-size: 18px;
@@ -1782,7 +1782,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	transition: 0.4s ease-in-out;
 }
 .shop-detail p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .shop-detail h4 {
 	color: #2d3a4b;
@@ -1889,8 +1889,8 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	margin-top: 30px;
 }
 .item-decribe .tab-content p {
-	font-size: 20px;
-	font-family: 'VistaSansReg', serif;
+	font-size: 13px;
+	font-family: 'Montserrat', serif;
 	color: grey;
 }
 .item-decribe .nav-tabs {
@@ -2054,7 +2054,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	line-height: 24px;
 	letter-spacing: 0.1px;
 	color: #666666;
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .vision-text h5 {
 	font-size: 20px;
@@ -2063,7 +2063,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	letter-spacing: 2px;
 }
 .vision-text h2 {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	font-size: 36px;
 	font-weight: normal;
 	text-transform: none;
@@ -2086,7 +2086,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	text-align: center;
 }
 .cultur-block p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	color: #fff;
 }
 .cultur-block h4 {
@@ -2233,7 +2233,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	background: #ffe115;
 }
 .blog-list article p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .blog-list .post-tittle .tags {
 	font-weight: bold;
@@ -2373,7 +2373,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 .admin-info h6 span {
 	font-size: 12px;
 	text-transform: none;
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	margin-left: 30px;
 }
 /*=======================================================
@@ -2401,7 +2401,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	padding: 0px;
 	margin: 0px;
 	border: none;
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	margin: 50px 0;
 	border-bottom: 1px solid rgba(0,0,0,0.1);
 	border-top: 1px solid rgba(0,0,0,0.1);
@@ -2479,7 +2479,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	border-bottom: 1px solid #d1d5db;
 }
 .tweet p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 }
 .tweet i {
 	font-size: 30px;
@@ -3082,7 +3082,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	font-weight: bold;
 }
 .knowledge-share p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	max-width: 400px;
 }
 .knowledge-share a {
@@ -3276,7 +3276,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	margin-top: 20px;
 }
 .testimonial p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	max-width: 400px;
 	margin-top: 40px;
 	color: #4d4d4d;
@@ -3377,7 +3377,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	color: #ffe333;
 }
 .small-about p {
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	color: #4d4d4d;
 	font-size: 14px;
 	line-height: 20px;
@@ -3404,7 +3404,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 .sub-bnr p {
 	color: #666666;
 	letter-spacing: 0px;
-	font-family: 'VistaSansReg', serif;
+	font-family: 'Montserrat', serif;
 	font-size: 14px;
 	margin-top: 20px;
 	max-width: 590px;
