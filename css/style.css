@@ -433,6 +433,7 @@ header .navbar {
 }
 header .logo {
 	float: left;
+	width: 495px;
 	margin-top: 0px;
 	position: relative;
 }
@@ -445,7 +446,7 @@ header .logo img {
 }
 header .sticky {
 	background: rgba(255,255,255,0.95);
-	padding: 10px 0;
+	padding: 0px 0;
 	left: 0px;
 }
 header .is-sticky .sticky {
@@ -1078,6 +1079,17 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	text-align: center;
 	margin-top: 0px;
 }
+
+.logo-center {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	margin: 0 auto;
+	width: 650px;
+	text-align: center;
+	margin-top: 0px;
+}
+
 .header-2 .user-acc .dropdown-menu {
 	margin-top: 15px;
 }
