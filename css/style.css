@@ -1848,7 +1848,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	border-bottom: 1px solid #d1d5db;
 }
 .inner-info p {
-	font-size: 12px;
+	font-size: 16px;
 	margin: 15px 0;
 	margin-bottom: 0px;
 }
@@ -1857,7 +1857,7 @@ header .is-sticky .sticky .user-basket .dropdown-menu {
 	margin-top: 15px;
 }
 .inner-info .social_icons li a {
-	font-size: 16px;
+	font-size: 25px;
 	margin: 0 5px;
 	color: #2d3a4b;
 }
