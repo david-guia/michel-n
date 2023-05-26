@@ -4413,16 +4413,6 @@ main {
 	font-size: 13px;
 }
 
-label {
-	font-size: 1.1rem;
-	padding-right: 10px;
-}
-
-select {
-	font-size: 1.1rem;
-	padding: 5px 10px;
-}
-
 .dropdownmenu ul,
 .dropdownmenu li {
 	margin: 0;
@@ -4446,7 +4436,7 @@ select {
 	color: #FFFFFF;
 	display: block;
 	font: bold 12px/20px sans-serif;
-	padding: 10px 25px;
+	padding: 10px 50px;
 	text-align: center;
 	text-decoration: none;
 	-webkit-transition: all .25s ease;
@@ -4482,7 +4472,7 @@ li:hover ul#submenu {
 }
 
 #submenu a:hover {
-	background: #DF4B05;
+	background: #30A6E6;
 }
 
 #submenu a {
