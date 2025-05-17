@@ -41,14 +41,21 @@
   <link href="../css/main.css" rel="stylesheet" />
   <link href="../css/style.css" rel="stylesheet" />
   <link href="../css/responsive.css" rel="stylesheet" />
-  <link href="../https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+  <!-- Online Fonts (optimisé : Montserrat seulement) -->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap" rel="stylesheet" type="text/css" />
+  <!-- Calendly CSS optimisé -->
+  <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet" media="print" onload="this.media='all'">
 
   <!-- JavaScripts -->
-  <script src="../js/modernizr.js"></script>
-
-  <!-- Online Fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
-  <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900" rel="stylesheet" type="text/css" />
+  <script src="../js/modernizr.js" defer></script>
+  <script src="../js/jquery-1.11.3.min.js" defer></script>
+  <script src="../js/bootstrap.min.js" defer></script>
+  <script src="../js/own-menu.js" defer></script>
+  <script src="../js/jquery.lighter.js" defer></script>
+  <script src="../js/owl.carousel.min.js" defer></script>
+  <script type="text/javascript" src="../rs-plugin/js/jquery.tp.t.min.js" defer></script>
+  <script type="text/javascript" src="../rs-plugin/js/jquery.tp.min.js" defer></script>
+  <script src="../js/main.js" defer></script>
 
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -121,7 +128,7 @@
 
           <!-- Logo -->
           <div class="logo logo-center">
-            <a href="./index.html"><img class="img-responsive" src="../images/logo.webp" alt="" /></a>
+            <a href="./index.html"><img class="img-responsive" src="../images/logo.webp" alt="Image de déguisement proposée par Chouette Déguisement" loading="lazy" width="200" height="200" /></a>
           </div>
           <nav class="navbar ownmenu">
 
@@ -199,7 +206,7 @@
           <div class="col-md-3">
             <div class="item"> 
               <!-- Item img -->
-              <div class="item-img"> <img class="img-1" src="../images/index/68image.webp" alt="" > 
+              <div class="item-img"> <img class="img-1" src="../images/index/68image.webp" alt="" loading="lazy"> 
                 <!-- Overlay -->
                 <div class="overlay">
                   <div class="position-center-center">
@@ -221,7 +228,7 @@
               <span>RÉDUC</span>
               </div>-->
                 <!-- Item img -->
-                <div class="item-img"> <img class="img-1" src="../images/index/79image.webp" alt="" > 
+                <div class="item-img"> <img class="img-1" src="../images/index/79image.webp" alt="" loading="lazy"> 
                   <!-- Overlay -->
                   <div class="overlay">
                     <div class="position-center-center">
@@ -243,7 +250,7 @@
           <div class="col-md-3">
             <div class="item"> 
               <!-- Item img -->
-              <div class="item-img"> <img class="img-1" src="../images/index/70image.webp" alt="" > 
+              <div class="item-img"> <img class="img-1" src="../images/index/70image.webp" alt="" loading="lazy"> 
                 <!-- Overlay -->
                 <div class="overlay">
                   <div class="position-center-center">
@@ -270,7 +277,7 @@
               <span>RÉDUC</span>
               </div>-->
                 <!-- Item img -->
-                <div class="item-img"> <img class="img-1" src="../images/index/75image.webp" alt="" > 
+                <div class="item-img"> <img class="img-1" src="../images/index/75image.webp" alt="" loading="lazy"> 
                   <!-- Overlay -->
                   <div class="overlay">
                     <div class="position-center-center">
@@ -290,7 +297,7 @@
           <div class="col-md-3">
             <div class="item"> 
               <!-- Item img -->
-              <div class="item-img"> <img class="img-1" src="../images/index/78image.webp" alt="" > 
+              <div class="item-img"> <img class="img-1" src="../images/index/78image.webp" alt="" loading="lazy"> 
                 <!-- Overlay -->
                 <div class="overlay">
                   <div class="position-center-center">
@@ -310,7 +317,7 @@
                 <div class="col-md-3">
                   <div class="item">
                     <!-- Item img -->
-                    <div class="item-img"> <img class="img-1" src="../images/index/129.webp" alt="">
+                    <div class="item-img"> <img class="img-1" src="../images/index/129.webp" alt="" loading="lazy">
                       <!-- Overlay -->
                       <div class="overlay">
                         <div class="position-center-center">
@@ -333,7 +340,7 @@
                 <div class="col-md-3">
                   <div class="item">
                     <!-- Item img -->
-                    <div class="item-img"> <img class="img-1" src="../images/index/117.webp" alt="">
+                    <div class="item-img"> <img class="img-1" src="../images/index/117.webp" alt="" loading="lazy">
                       <!-- Overlay -->
                       <div class="overlay">
                         <div class="position-center-center">
@@ -357,7 +364,7 @@
             <div class="col-md-3">
               <div class="item">
                 <!-- Item img -->
-                <div class="item-img"> <img class="img-1" src="../images/index/112.webp" alt="">
+                <div class="item-img"> <img class="img-1" src="../images/index/112.webp" alt="" loading="lazy">
                   <!-- Overlay -->
                   <div class="overlay">
                     <div class="position-center-center">
@@ -379,7 +386,7 @@
             <div class="col-md-3">
               <div class="item">
                 <!-- Item img -->
-                <div class="item-img"> <img class="img-1" src="../images/index/114.webp" alt="">
+                <div class="item-img"> <img class="img-1" src="../images/index/114.webp" alt="" loading="lazy">
                   <!-- Overlay -->
                   <div class="overlay">
                     <div class="position-center-center">
@@ -483,17 +490,6 @@
   </footer>
   </main>
   </div>
-  <script src="../js/jquery-1.11.3.min.js"></script>
-  <script src="../js/bootstrap.min.js"></script>
-  <script src="../js/own-menu.js"></script>
-  <script src="../js/jquery.lighter.js"></script>
-  <script src="../js/owl.carousel.min.js"></script>
-
-  <!-- SLIDER REVOLUTION 4.x SCRIPTS  -->
-  <script type="text/javascript" src="../rs-plugin/js/jquery.tp.t.min.js"></script>
-  <script type="text/javascript" src="../rs-plugin/js/jquery.tp.min.js"></script>
-  <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-  <script src="../js/main.js"></script>
 </body>
 
 </html>
