@@ -1,0 +1,31 @@
+{
+  "costumes": [
+    {
+      "nom": "Charleston",
+      "categories": ["années 20", "femme", "danse"],
+      "couleurs": ["noir", "blanc", "doré"],
+      "themes": ["rétro", "élégant", "fête"],
+      "url": "costumes/charleston.html",
+      "image": "images/charleston.webp",
+      "description": "Costume Charleston authentique années 20"
+    },
+    {
+      "nom": "Disco",
+      "categories": ["années 70", "homme", "femme", "danse"],
+      "couleurs": ["paillettes", "multicolore"],
+      "themes": ["rétro", "fête", "disco"],
+      "url": "costumes/disco.html",
+      "image": "images/disco.webp",
+      "description": "Tenue disco éclatante années 70"
+    },
+    {
+      "nom": "Pirate des Caraïbes",
+      "categories": ["aventure", "homme", "femme"],
+      "couleurs": ["marron", "noir", "rouge"],
+      "themes": ["aventure", "cinéma", "historique"],
+      "url": "costumes/piratedescaraibes.html",
+      "image": "images/pirate.webp",
+      "description": "Costume de pirate authentique"
+    }
+  ]
+}

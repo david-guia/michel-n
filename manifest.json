@@ -1,0 +1,16 @@
+{
+  "name": "Chouette Déguisement",
+  "short_name": "Chouette Déguisement",
+  "description": "Location de costumes et déguisements pour tous vos événements",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0069ff",
+  "icons": [
+    {
+      "src": "images/logo.webp",
+      "sizes": "192x192",
+      "type": "image/webp"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Simple PHP</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .box { padding: 15px; margin: 10px 0; border: 1px solid #ddd; }
+        .success { background: #d4edda; color: #155724; }
+        .warning { background: #fff3cd; color: #856404; }
+        .error { background: #f8d7da; color: #721c24; }
+    </style>
+</head>
+<body>
+    <h2>Diagnostic PHP dans HTML</h2>
+    
+    <!-- Test 1: PHP basique -->
+    <div class="box success">
+        <h3>Test PHP basique</h3>
+        <p>Si vous voyez la date ci-dessous, PHP fonctionne :</p>
+        <p><strong>Date actuelle : Le contenu PHP devrait apparaître ici</strong></p>
+    </div>
+    
+    <!-- Test 2: Configuration -->
+    <div class="box warning">
+        <h3>Configuration requise</h3>
+        <ul>
+            <li>✅ Fichier .htaccess configuré</li>
+            <li>⚠️ Serveur local requis (XAMPP, MAMP, etc.)</li>
+            <li>⚠️ Ne fonctionne pas en ouvrant directement le fichier</li>
+        </ul>
+    </div>
+    
+    <!-- Instructions -->
+    <div class="box">
+        <h3>Pour tester correctement :</h3>
+        <ol>
+            <li>Démarrez votre serveur local (XAMPP, MAMP, etc.)</li>
+            <li>Placez ces fichiers dans le dossier web (htdocs, www, etc.)</li>
+            <li>Accédez via http://localhost/votre-projet/test-php-html.html</li>
+            <li>Si PHP fonctionne, vous verrez la date dynamique</li>
+        </ol>
+    </div>
+    
+</body>
+</html>
