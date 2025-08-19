@@ -1,0 +1,550 @@
+# Translation of Themes - Tove in French (France)
+# This file is distributed under the same license as the Themes - Tove package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-04 13:20:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Tove\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Tove is a fun and colorful multi-purpose block theme built entirely around Full Site Editing. It's designed with cafes and restaurants in mind, but thanks to the layout features of Full Site Editing, you can easily adapt it for any type of website. Tove bundles over 40 Block Patterns to get you started, including six different header designs and seven different footer designs. Demo: https://andersnoren.se/themes/tove/"
+msgstr "Tove est un thème basé sur les blocs, gai, coloré et adapté à tous les usages. Il est pensé pour les restaurants et les cafés en particulier mais grâce aux fonctionnalités de mise en page de l’éditeur de site, vous pouvez facilement l’adapter à n’importe quel type de site. Tove propose plus de 40 compositions de blocs pour démarrer, et inclus 6 différents types d’en-têtes et 7 pieds de page différents. La démo : https://andersnoren.se/themes/tove/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Tove"
+msgstr "Tove"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Loop"
+msgstr "Boucle de requête"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "8"
+msgstr "8"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "7"
+msgstr "7"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Comments"
+msgstr "Commentaires"
+
+#: patterns/restaurant-reservation-big.php
+msgctxt "Pattern title"
+msgid "A really big button for reservations."
+msgstr "Un très gros bouton pour les réservations."
+
+#: patterns/restaurant-opening-hours.php
+msgctxt "Pattern title"
+msgid "A table with opening hours."
+msgstr "Un tableau avec les heures d‘ouverture."
+
+#: patterns/restaurant-opening-hours-big.php
+msgctxt "Pattern title"
+msgid "A large section with opening hours."
+msgstr "Une grande section avec les heures d‘ouverture."
+
+#: patterns/restaurant-menu.php
+msgctxt "Pattern title"
+msgid "Restaurant menu with columns for three different menu sections."
+msgstr "Menu du restaurant avec colonnes pour trois sections de menus différentes."
+
+#: patterns/restaurant-menu-row.php
+msgctxt "Pattern title"
+msgid "A row with three columns for the restaurant menu."
+msgstr "Une ligne avec trois colonnes pour le menu du restaurant."
+
+#: patterns/restaurant-location.php
+msgctxt "Pattern title"
+msgid "Information block for a restaurant or café location."
+msgstr "Bloc d‘information pour la localisation du restaurant ou du café."
+
+#: patterns/restaurant-featured-dish.php
+msgctxt "Pattern title"
+msgid "Promotional section for a featured dish."
+msgstr "Section promotionnelle pour un plat mis en avant."
+
+#: patterns/hero-text.php
+msgctxt "Pattern title"
+msgid "Hero with headings, a paragraph of text, and buttons."
+msgstr "Bannière d’accroche avec des titres, un paragraphe de texte et des boutons."
+
+#: patterns/hero-text-displaced.php
+msgctxt "Pattern title"
+msgid "Hero with a large heading to the left and text to the right."
+msgstr "Bannière d’accroche avec un grand titre à gauche et un texte à droite."
+
+#: patterns/hero-cover.php
+msgctxt "Pattern title"
+msgid "Hero with a background image, a heading and buttons."
+msgstr "Bannière d’accroche avec une image d‘arrière-plan, un titre et des boutons."
+
+#: patterns/header-horizontal-social.php
+msgctxt "Pattern title"
+msgid "Header with site title, a menu and social icons."
+msgstr "En-tête avec le titre du site, un menu et les icônes des réseaux sociaux."
+
+#: patterns/header-horizontal-double.php
+msgctxt "Pattern title"
+msgid "Header with opening hours, button, site title and a menu."
+msgstr "En-tête avec les heures d‘ouverture, un bouton, le titre du site et un menu."
+
+#: patterns/header-horizontal-button.php
+msgctxt "Pattern title"
+msgid "Header with site title, a menu and buttons."
+msgstr "En-tête avec le titre du site, un menu et des boutons."
+
+#: patterns/general-testimonials-columns.php
+msgctxt "Pattern title"
+msgid "Testimonials section with three quotes."
+msgstr "Section des témoignages avec trois citations."
+
+#: patterns/general-pricing-table.php
+msgctxt "Pattern title"
+msgid "Pricing table with three tiers."
+msgstr "Tableau de prix en trois colonnes."
+
+#: patterns/general-previews-featured.php
+msgctxt "Pattern title"
+msgid "Large featured section for the latest sticky post on the site."
+msgstr "Section mise en avant, en grande largeur, pour les dernières publications épinglées sur le site."
+
+#: patterns/general-previews-columns.php
+msgctxt "Pattern title"
+msgid "Latest news section with three posts."
+msgstr "Section des dernières nouvelles avec trois publications."
+
+#: patterns/general-previews-columns-small.php
+msgctxt "Pattern title"
+msgid "Compact latest news section with three posts."
+msgstr "Section compacte des dernières nouvelles avec trois publications."
+
+#: patterns/general-media-text-button.php
+msgctxt "Pattern title"
+msgid "Media and text with button."
+msgstr "Média et texte avec bouton."
+
+#: patterns/general-information-banner.php
+msgctxt "Pattern title"
+msgid "Information banner"
+msgstr "Bannière informative"
+
+#: patterns/general-follow-us-vertical.php
+msgctxt "Pattern title"
+msgid "Follow us section with a vertical layout."
+msgstr "Section Suivez-nous avec une mise en page verticale."
+
+#: patterns/general-follow-us-horizontal.php
+msgctxt "Pattern title"
+msgid "Follow us section with a horizontal layout."
+msgstr "Section Suivez-nous avec une mise en page horizontale."
+
+#: patterns/general-feature-large.php
+msgctxt "Pattern title"
+msgid "Full-width feature section with headings, text, and buttons."
+msgstr "Section fonctionnalité en pleine largeur avec titres, texte, et boutons."
+
+#: patterns/general-faq.php
+msgctxt "Pattern title"
+msgid "Frequently Asked Questions (FAQ) section."
+msgstr "Section Foire aux questions (FAQ)."
+
+#: patterns/footer-horizontal-social.php
+msgctxt "Pattern title"
+msgid "Footer with site title, theme credit and social icons."
+msgstr "Pied de page avec le titre du site, les crédits du thème et les icônes des réseaux sociaux."
+
+#: patterns/footer-horizontal-columns-4.php
+msgctxt "Pattern title"
+msgid "Footer with site title, contact information, and two menus."
+msgstr "Pied de page avec le titre du site, les informations de contact et deux menus."
+
+#: patterns/cta-vertical.php
+msgctxt "Pattern title"
+msgid "Vertical call to action."
+msgstr "Appel à l‘action vertical."
+
+#: patterns/cta-horizontal.php
+msgctxt "Pattern title"
+msgid "Horizontal call to action."
+msgstr "Appel à l‘action horizontal."
+
+#: patterns/blog-list.php
+msgctxt "Pattern title"
+msgid "List with featured image, title, excerpt, and post date."
+msgstr "Liste avec image mise en avant, titre, extrait, et date de publication."
+
+#: patterns/blog-list-compact.php
+msgctxt "Pattern title"
+msgid "Compact list with title and post date."
+msgstr "Liste compacte avec titre et date de publication."
+
+#: patterns/blog-list-compact-media.php
+msgctxt "Pattern title"
+msgid "Compact list with featured image, title, and post date."
+msgstr "Liste compacte avec image mise en avant, titre et date de publication."
+
+#: patterns/blog-grid-cols-3.php
+msgctxt "Pattern title"
+msgid "Three column grid with featured image, title, and post date"
+msgstr "Grille en trois colonnes avec image mise en avant, titre et date de publication."
+
+#: patterns/blog-grid-cols-2.php
+msgctxt "Pattern title"
+msgid "Two column grid with featured image, title, and post date"
+msgstr "Grille de deux colonnes avec l’image mise en avant, un titre et la date de publication."
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pied de page"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "En-tête"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Without Title"
+msgstr "Page sans titre"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Monospace"
+msgstr "System Monospace"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Serif"
+msgstr "System Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "System Sans Serif"
+msgstr "System Sans Serif"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr "DM Sans"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Secondary"
+msgstr "Tertiaire à secondaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Background"
+msgstr "Tertiaire à l‘arrière-plan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Tertiary to Quaternary"
+msgstr "Tertiaire à quaternaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Background"
+msgstr "Secondaire à l‘arrière-plan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Tertiary"
+msgstr "Secondaire à tertiaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary to Quaternary"
+msgstr "Secondaire à quaternaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Secondary"
+msgstr "Arrière-plan à secondaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Tertiary"
+msgstr "Arrière-plan à tertiaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Background to Quaternary"
+msgstr "Arrière-plan à quaternaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Secondary"
+msgstr "Quaternaire à secondaire"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Background"
+msgstr "Quaternaire à l‘arrière-plan"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Quaternary to Tertiary"
+msgstr "Quaternaire à tertiaire"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr "Senary"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Quinary"
+msgstr "Quinaire"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr "Quaternaire"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Tertiaire"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secondaire"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principal"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Premier plan"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 6"
+msgstr "Titre 6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 5"
+msgstr "Titre 5"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 4"
+msgstr "Titre 4"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 3"
+msgstr "Titre 3"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 2"
+msgstr "Titre 2"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Heading 1"
+msgstr "Titre 1"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr "Gigantesque"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Énorme"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Très grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normale"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Petite"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Minuscule"
+
+#: functions.php:110
+msgid "Vertical Borders"
+msgstr "Bordures verticales"
+
+#: functions.php:104
+msgid "Top Separator"
+msgstr "Séparateur du haut"
+
+#: functions.php:98
+msgid "Vertical Separators"
+msgstr "Séparateurs verticaux"
+
+#: functions.php:92
+msgid "Plain"
+msgstr "Plein"
+
+#: functions.php:85
+msgid "Shaded"
+msgstr "Ombré"
+
+#: patterns/hero-cover-group-bg.php
+msgctxt "Pattern title"
+msgid "Hero with a background image and a heading, paragraph of text, and buttons."
+msgstr "Bannière d’accroche avec une image d‘arrière-plan et un titre, un paragraphe de texte et des boutons."
+
+#: patterns/header-stacked-centered.php
+msgctxt "Pattern title"
+msgid "Header with site title, a menu and social icons stacked and centered."
+msgstr "En-tête avec le titre du site, un menu et les icônes sociaux empilées et centrées."
+
+#: patterns/header-horizontal-double-deluxe.php
+msgctxt "Pattern title"
+msgid "Header with opening hours, site title, social icons, a menu and a Call us button."
+msgstr "En-tête avec les heures d‘ouverture, titre du site, icônes sociaux, un menu et un bouton « Appelez-nous »."
+
+#: patterns/header-horizontal.php
+msgctxt "Pattern title"
+msgid "Header with site title and a menu. This is the default header in the theme."
+msgstr "En-tête avec le titre du site et un menu. Il s‘agit de l‘en-tête par défaut du thème."
+
+#: patterns/footer-stacked-centered.php
+msgctxt "Pattern title"
+msgid "Footer with site title, theme credit and social icons stacked and centered."
+msgstr "Pied de page avec le titre du site, les crédits et les icônes sociaux empilées et centrées."
+
+#: patterns/footer-horizontal-columns-3.php
+msgctxt "Pattern title"
+msgid "Footer with site title, information blocks for two business locations, menu and social icons."
+msgstr "Pied de page avec le titre du site, les informations de blocs pour les emplacements pour deux entreprises, le menu et les icônes sociaux."
+
+#: patterns/footer-horizontal-columns-2.php
+msgctxt "Pattern title"
+msgid "Footer with site title, menu, opening hours, contact information and social icons in two columns."
+msgstr "Pied de page avec le titre du site, le menu, les informations de contact et les icônes sociaux en deux colonnes."
+
+#: patterns/footer-horizontal-columns-1.php
+msgctxt "Pattern title"
+msgid "Footer with site title, menu, opening hours and contact information in four columns."
+msgstr "Pied de page avec le titre du site, le menu, les heures d‘ouverture et les informations de contact en quatre colonnes."
+
+#: patterns/footer-horizontal.php
+msgctxt "Pattern title"
+msgid "Footer with site title and theme credit in a centered paragraph. This is the default footer in the theme."
+msgstr "Pied de page avec le titre du site et les crédits du thème dans un paragraphe centré. Il s‘agit du pied de page par défaut du thème."
+
+#: functions.php:52
+msgid "Tove Restaurant"
+msgstr "Tove Restaurant"
+
+#: functions.php:49
+msgid "Tove Hero"
+msgstr "Tove Hero"
+
+#: functions.php:46
+msgid "Tove Header"
+msgstr "Tove En-tête"
+
+#: functions.php:43
+msgid "Tove General"
+msgstr "Tove Général"
+
+#: functions.php:40
+msgid "Tove Footer"
+msgstr "Tove pied de page"
+
+#: functions.php:37
+msgid "Tove Call to Action"
+msgstr "Tove Appel à l‘action"
+
+#: functions.php:34
+msgid "Tove Blog"
+msgstr "Tove Blog"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://andersnoren.se"
+msgstr "https://andersnoren.se"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Anders Norén"
+msgstr "Anders Norén"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://andersnoren.se/teman/tove-wordpress-theme/"
+msgstr "https://andersnoren.se/teman/tove-wordpress-theme/"
