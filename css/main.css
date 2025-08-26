@@ -4948,3 +4948,10 @@ header {
 		display: block;
 	}
 }
+
+/* Logo styles coherents */
+.logo img {
+    max-width: 200px;
+    height: auto;
+    width: auto;
+}

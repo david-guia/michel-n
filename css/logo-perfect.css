@@ -1,0 +1,111 @@
+/* ==============================================
+   LOGO CHOUETTE DÉGUISEMENT - STYLES PARFAITS
+   ============================================== */
+
+.logo {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+
+.logo a {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+
+.logo a:hover {
+    transform: scale(1.05);
+}
+
+.logo img {
+    /* Dimensions de base */
+    width: 200px !important;
+    height: 200px !important;
+    max-width: 200px !important;
+    max-height: 200px !important;
+    
+    /* Optimisations d'affichage */
+    display: block;
+    margin: 0 auto;
+    object-fit: contain;
+    
+    /* Performances */
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    
+    /* Accessibilité */
+    alt: "Logo Chouette Déguisement";
+}
+
+/* Responsive design */
+@media screen and (max-width: 1200px) {
+    .logo img {
+        width: 180px !important;
+        height: 180px !important;
+        max-width: 180px !important;
+        max-height: 180px !important;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .logo img {
+        width: 160px !important;
+        height: 160px !important;
+        max-width: 160px !important;
+        max-height: 160px !important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .logo img {
+        width: 140px !important;
+        height: 140px !important;
+        max-width: 140px !important;
+        max-height: 140px !important;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .logo img {
+        width: 120px !important;
+        height: 120px !important;
+        max-width: 120px !important;
+        max-height: 120px !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .logo img {
+        width: 100px !important;
+        height: 100px !important;
+        max-width: 100px !important;
+        max-height: 100px !important;
+    }
+}
+
+/* Print styles */
+@media print {
+    .logo img {
+        width: 150px !important;
+        height: 150px !important;
+        max-width: 150px !important;
+        max-height: 150px !important;
+    }
+}
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+    .logo img {
+        filter: brightness(0.9);
+    }
+}
+
+/* High DPI displays */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+    .logo img {
+        image-rendering: -webkit-optimize-contrast;
+        image-rendering: optimize-contrast;
+    }
+}
