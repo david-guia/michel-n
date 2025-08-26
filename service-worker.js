@@ -7,7 +7,6 @@ const urlsToCache = [
     '/js/search-engine.js',
     '/js/analytics.js',
     '/images/logo.webp',
-    '/includes/html-components.php',
     '/manifest.json'
 ];
 
